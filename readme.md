@@ -46,7 +46,7 @@ Each node in the graph incorporates both the resource monitoring metrics of the 
 
 ### Directory Descriptions
 
-- `v1_bc_<entry-ms>_<component>_c1_10s_<duration>_<cpu_percent>_<mem_percent>: Data under different stress testing conditions. It provides three types of data for analysis: logs, metrics, and traces.
+- `v1_bc_<entry-ms>_<component>_c1_10s_<duration>_<cpu_percent>_<mem_percent>`: Data under different stress testing conditions. It provides three types of data for analysis: logs, metrics, and traces.
   
 
 
